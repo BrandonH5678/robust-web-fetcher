@@ -13,12 +13,12 @@ long_description = readme_path.read_text(encoding="utf-8") if readme_path.exists
 setup(
     name="robust-web-fetcher",
     version="1.0.0",
-    author="Robust Web Fetcher Contributors",
-    author_email="your.email@example.com",
+    author="BrandonH5678",
+    author_email="ishi.ihui@gmail.com",
     description="Multi-tactic download library for stubborn sites, 403 errors, and unreliable sources",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/YOUR_USERNAME/robust-web-fetcher",
+    url="https://github.com/BrandonH5678/robust-web-fetcher",
     packages=find_packages(),
     py_modules=["robust_web_fetcher"],
     classifiers=[

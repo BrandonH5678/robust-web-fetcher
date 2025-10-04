@@ -23,7 +23,7 @@ A powerful Python library that handles difficult web downloads with automatic fa
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/robust-web-fetcher.git
+git clone https://github.com/BrandonH5678/robust-web-fetcher.git
 cd robust-web-fetcher
 
 # Install dependencies
@@ -313,7 +313,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/robust-web-fetcher/issues)
+- **Issues**: [GitHub Issues](https://github.com/BrandonH5678/robust-web-fetcher/issues)
 - **Documentation**: See [docs/](docs/) directory
 - **Examples**: See [examples/](examples/) directory
 
