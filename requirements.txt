@@ -1,0 +1,15 @@
+# Robust Web Fetcher - Python Dependencies
+
+# Required
+requests>=2.31.0
+
+# Optional (for enhanced capabilities)
+# Uncomment if needed:
+
+# playwright>=1.40.0  # Modern HTML→PDF with JavaScript support
+# weasyprint>=60.0    # Pure Python HTML→PDF converter
+
+# Note: curl and wget are system tools, install via:
+#   - Linux: sudo apt install curl wget wkhtmltopdf
+#   - macOS: brew install curl wget wkhtmltopdf
+#   - Windows: See https://wkhtmltopdf.org/downloads.html
